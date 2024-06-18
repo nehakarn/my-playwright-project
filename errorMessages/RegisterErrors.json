@@ -1,0 +1,15 @@
+{
+    "password": "Password is required",
+    "companyName": "Company Name is required",
+    "email": "Email must be a valid email address",
+    "phone": "Phone is required",
+    "street": "Street is required",
+    "city": "City is required",
+    "state": "State is required",
+    "zipcode": "Zip is required",
+    "country": "Country is required",
+    "firstname":"First Name is required",
+    "lastname" : "Last Name is required",
+    "phoneno" : "Phone must be a number",
+    "confirmpassword" : "Confirm Password is required"
+    }

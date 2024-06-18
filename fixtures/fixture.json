@@ -1,0 +1,17 @@
+{
+    "validCredential":{
+        "email": "admin@clinchtech.com",
+        "password": "P@$$W0Rd"
+    },
+    "invalidCredential":{
+        "email": "adminclinchtech.com"
+    },
+    "mismatchedCredential":{
+        "email": "admin@clinchtech.com",
+        "password": "P@ssW0Rd"
+    },
+    "validCredential1":{
+        "email" : "admin_test@velorona.com",
+        "password" :"P@$$W0Rd"
+    }
+}
